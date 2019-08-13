@@ -1,0 +1,9 @@
+{{#if error}}
+<div class="alert alert-danger col-sm-4 mx-auto">{{error}}</div>
+{{/if}}
+
+{{#each errors}}
+<div class="alert alert-danger col-sm-4 mx-auto">{{text}}</div>
+{{else}}
+
+{{/each}}

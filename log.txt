@@ -1,0 +1,8 @@
+- Nodejs
+- Express
+- Handlebars (Express Handlebars)
+- Express Session
+- Connect Flash
+- Bcrypt
+- Passport
+- mLab
