@@ -15,6 +15,7 @@ VidJot is a website to with login and registration (w/auth) and blog-style post/
 * **Passport** (Authentication)
 * **MongoDB** (Local, and mongoDB Atlas for cloud storage)
 * **Bootstrap 4 CDN** (Quick Styling)
+* **Heroku** (Deployment)
 
 ## Course Author
 * [**Brad Traversy**](https://github.com/bradtraversy) - *Dev to Deployment* - [Website](https://www.traversymedia.com/)
