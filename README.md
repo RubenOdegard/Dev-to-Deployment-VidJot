@@ -2,6 +2,7 @@
 
 VidJot is a website to with login and registration (w/auth) and blog-style post/edit/delete functions.
 - Use: *Post/Edit/Delete future ideas for YouTube videos.*
+* [**LIVE PREVIEW**](https://immense-lowlands-39682.herokuapp.com/)
 
 ## What I've used in this project
 
